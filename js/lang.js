@@ -38,6 +38,7 @@ const langContent = {
     value4: "Commitment to quality and scientific standards",
     
     // Services Section
+    
     servicesTitle: "Our Services",
     service1Title: "Assessment & Diagnosis",
     service1Text: "Kidrak provides accurate assessment and diagnosis services for children who face difficulties in academic achievement, relying on scientific, standardized and internationally approved scales. This service aims to identify the nature of learning difficulties (reading, writing, arithmetic), their severity level, and associated strengths. The assessment results form the scientific basis for building effective and appropriate educational intervention plans for each child's needs.",
@@ -50,13 +51,33 @@ const langContent = {
     
     service4Title: "Educational Awareness & Guidance",
     service4Text: "Kidrak seeks to spread scientific awareness about learning difficulties through guidance programs and educational content directed to parents and teachers. This service includes: clarifying the nature and characteristics of learning difficulties, providing practical support strategies at home and in the classroom, and enhancing the partnership between the family and the educational institution. This service aims to empower the child's supportive environment to understand their needs and deal with them effectively.",
+    servicesDeliveryTitle: "Service Delivery",
+    onlineServicesTitle: "Online Services",
+    onlineServicesP01: "Remote Assessment & Diagnosis",
+    onlineServicesP02: "Online Consultation Sessions",
+    onlineServicesP03: "Educational Guidance & Follow-up",
+    inPersonServicesTitle: "In-Person Services (Jordan)",
+    inPersonServicesP01: "In-Person Sessions (when needed)",
+    inPersonServicesP02: "Training Programs & Workshops",
+    inPersonServicesP03: "Awareness & Institutional Activities",
+    pServices: "This flexible model allows combining digital and field services to meet the needs of different groups.",
     
     // Why Kidrak Section
     whyTitle: "Why Kidrak?",
+    advantagesTitle: "Our Key Advantages",
+    pwhy01: "Kidrak stands out as a leading platform in supporting children with learning difficulties due to its unique approach and comprehensive services. Our commitment to scientific accuracy, personalized intervention, and flexible service delivery makes us the ideal choice for parents and educators seeking effective support for children.",
+    pwhy02: "Through our online platform and in-person services in Jordan, we ensure that every child receives the specialized attention they need to overcome learning challenges and achieve their full potential.",
     why1: "Specialized team in Special Education and Learning Difficulties",
     why2: "Scientific and standardized assessment tools",
     why3: "Individual educational solutions designed for each child",
     why4: "Comprehensive support for parents and teachers",
+    pwhy1: "Our team consists of highly qualified professionals with extensive experience in special education and learning difficulties. Led by Dr. Hulwa Hussein, we bring together academic expertise and practical experience to provide the best support for children.",
+    pwhy2: "We use scientifically validated and standardized assessment tools, including the WRAT-4 test standardized by Dr. Hulwa Hussein, to ensure accurate diagnosis and reliable identification of educational needs.",
+    pwhy3: "We recognize that every child is unique. Our intervention plans are tailored to each child's specific needs, strengths, and challenges, ensuring personalized support that leads to meaningful progress.",
+    pwhy4: "We believe in the power of partnership. We provide guidance, training, and resources to parents and teachers, creating a supportive ecosystem around the child for consistent and effective intervention.",
+    scientificTitle: "Scientific Approach",
+    scientificText: "At Kidrak, we are committed to evidence-based practices in all our services. Our approach is grounded in scientific research and follows international standards in the field of special education and learning difficulties.",
+    scientificText2: "Under the direct scientific supervision of Dr. Hulwa Hussein, we ensure that all our assessment tools, intervention strategies, and training programs meet the highest standards of accuracy and effectiveness.",
     
     // Contact Section
     contactTitle: "Contact Us",
@@ -131,13 +152,33 @@ const langContent = {
     
     service4Title: "التوعية والإرشاد التعليمي",
     service4Text: "تسعى كيدراك إلى نشر الوعي العلمي حول صعوبات التعلم من خلال برامج إرشادية ومحتوى تثقيفي موجه للأهالي والمعلمين. تشمل هذه الخدمة: توضيح طبيعة صعوبات التعلم وخصائصها، تقديم استراتيجيات دعم عملي داخل المنزل والصف، وتعزيز الشراكة بين الأسرة والمؤسسة التعليمية. تهدف هذه الخدمة إلى تمكين المحيط الداعم للطفل من فهم احتياجاته والتعامل معها بفعالية.",
+    serviceDeliveryTitle: "طرق تقديم الخدمات",
+    onlineServicesTitle: "الخدمات الأونلاين",
+    onlineServicesP01: "التقييم والتشخيص عن بُعد",
+    onlineServicesP02: "جلسات الاستشارة الأونلاين",
+    onlineServicesP03: "التوجيه التعليمي والمتابعة",
+    inPersonServicesTitle: "الخدمات الحضورية (الأردن)",
+    inPersonServicesP01: "الجلسات الحضورية (عند الحاجة)",
+    inPersonServicesP02: "برامج التدريب وورش العمل",
+    inPersonServicesP03: "أنشطة الوعي والمؤسساتية",
+    pServices: "يتيح هذا النموذج المرن دمج الخدمات الأونلاين والحضورية لتلبية احتياجات مجموعات مختلفة.",
     
     // Why Kidrak Section
     whyTitle: "لماذا كيدراك؟",
+    advantagesTitle: "مزايا كيدراك",
+    pwhy01: "تتميز كيدراك كمنصة رائدة في دعم الأطفال ذوي صعوبات التعلم بفضل نهجها الفريد وخدماتها الشاملة. إن التزامنا بالدقة العلمية، التدخل المخصص، ومرونة تقديم الخدمات يجعلنا الخيار الأمثل للأهالي والمعلمين الباحثين عن دعم فعّال للأطفال.",
+    pwhy02: "من خلال منصتنا الأونلاين وخدماتنا الحضورية في الأردن، نضمن أن يحصل كل طفل على الاهتمام المتخصص الذي يحتاجه لتجاوز تحديات التعلم وتحقيق إمكاناته الكاملة.",
     why1: "فريق متخصص في التربية الخاصة وصعوبات التعلم",
     why2: "أدوات تقييم علمية ومقننة",
     why3: "حلول تعليمية فردية مصممة لكل طفل",
     why4: "دعم شامل للأهالي والمعلمين",
+    pwhy1: "يتكون فريقنا من محترفين مؤهلين تأهيلاً عالياً وذوي خبرة واسعة في مجال التربية الخاصة وصعوبات التعلم. بقيادة الدكتورة حلوة حسين، نجمع بين الخبرة الأكاديمية والتجربة العملية لتقديم أفضل دعم للأطفال.",
+    pwhy2: "نستخدم أدوات تقييم علمية مقننة ومعتمدة، بما في ذلك اختبار WRAT-4 المقنن من قبل الدكتورة حلوة حسين، لضمان التشخيص الدقيق وتحديد الاحتياجات التعليمية بشكل موثوق.",
+    pwhy3: "ندرك أن كل طفل فريد من نوعه. تُفصّل خطط التدخل لدينا وفقًا للاحتياجات، نقاط القوة، والتحديات الخاصة بكل طفل، مما يضمن دعمًا مخصصًا يؤدي إلى تقدم ملموس.",
+    pwhy4: "نؤمن بقوة الشراكة. نوفر الإرشاد، التدريب، والموارد للأهالي والمعلمين، مما يخلق نظام دعم حول الطفل لتحقيق تدخل مستمر وفعّال.",
+    scientificTitle: "النهج العلمي",
+    scientificText: "في كيدراك، نلتزم بالممارسات القائمة على الأدلة في جميع خدماتنا. يستند نهجنا إلى البحث العلمي ويتبع المعايير الدولية في مجال التربية الخاصة وصعوبات التعلم.",
+    scientificText2: "تحت الإشراف العلمي المباشر للدكتورة حلوة حسين، نضمن أن جميع أدوات التقييم، استراتيجيات التدخل، وبرامج التدريب لدينا تلبي أعلى معايير الدقة والفعالية.",
     
     // Contact Section
     contactTitle: "اتصل بنا",
@@ -197,7 +238,7 @@ function switchLanguage(lang) {
 
 // Initialize language from localStorage or default to English
 document.addEventListener('DOMContentLoaded', function() {
-  const savedLang = localStorage.getItem('kidrakLang') || 'en';
+  const savedLang = localStorage.getItem('kidrakLang') || 'ar';
   switchLanguage(savedLang);
   
   // Add event listener to language switcher
