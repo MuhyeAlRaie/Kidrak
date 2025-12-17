@@ -10,7 +10,7 @@ const langContent = {
     
     // Hero Section
     heroTitle: "Empowering Child Abilities, Supporting Learning Journeys",
-    heroSubtitle: "Kidrak is a digital platform specializing in supporting children with learning difficulties, offering assessment, diagnosis, and educational consultation services based on precise scientific foundations.",
+    heroSubtitle: "Kidrak is a digital platform specializing in the early detection of core abilities (reading, writing, Math) in children, providing assessment, diagnosis, and educational consultation services based on precise scientific foundations.",
     heroBtn1: "Book Consultation",
     heroBtn2: "Contact Us",
     
@@ -112,7 +112,7 @@ const langContent = {
     
     // Hero Section
     heroTitle: "تمكين قدرات الأطفال ودعم رحلتهم التعليمية",
-    heroSubtitle: "كيدراك هي منصة رقمية متخصصة في دعم الأطفال ذوي صعوبات التعلم، وتقديم خدمات التقييم والتشخيص والاستشارات التعليمية المبنية على أسس علمية دقيقة.",
+    heroSubtitle: "كيدراك هي منصة رقمية متخصصة في الكشف المبكر عن القدرات الأساسية (االقراءة, الكتابة, الحساب) لدى الأطفال ، وتقديم خدمات التقييم والتشخيص والاستشارات التعليمية المبنية على أسس علمية دقيقة.",
     heroBtn1: "حجز استشارة",
     heroBtn2: "اتصل بنا",
     
