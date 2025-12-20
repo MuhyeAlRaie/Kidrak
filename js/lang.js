@@ -92,7 +92,8 @@ const langContent = {
     // Contact Info
     contactInfoTitle: "Get In Touch",
     contactEmailLabel: "Email",
-    contactPhoneLabel: "Phone",
+    contactPhoneLabel: "WhatsApp",
+    contactPhoneLabel2: "Phone",
     contactLocationLabel: "Location",
     contactEmailValue: "Contact@kidrak.com",
     contactPhoneValue: "+46 704 995 115",
@@ -193,7 +194,8 @@ const langContent = {
     // Contact Info
     contactInfoTitle: "تواصل معنا",
     contactEmailLabel: "البريد الإلكتروني",
-    contactPhoneLabel: "الهاتف",
+    contactPhoneLabel: "واتساب",
+    contactPhoneLabel2: "الهاتف",
     contactLocationLabel: "الموقع",
     contactEmailValue: "Contact@kidrak.com",
     contactPhoneValue: "+46 704 995 115",
